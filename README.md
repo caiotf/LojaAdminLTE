@@ -10,9 +10,9 @@ Sistema simples de gestão usando AdminLTE.
 </p>
 
 <p align="center">
-<img src="screenshots/listaprodutos.png" width="720">
+<img src="screenshots/addproduto.png" width="720">
 </p>
 
 <p align="center">
-<img src="screenshots/addproduto.png" width="720">
+<img src="screenshots/listaprodutos.png" width="720">
 </p>
